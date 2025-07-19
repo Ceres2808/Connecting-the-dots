@@ -1,0 +1,8 @@
+# Core PDF processing libraries (lightweight and fast)
+pymupdf==1.23.27
+pdfplumber==0.11.2
+pdfminer.six==20231228
+
+# Standard libraries (usually included but ensuring compatibility)
+typing-extensions>=4.0.0
+pathlib2>=2.3.0; python_version < "3.4"
