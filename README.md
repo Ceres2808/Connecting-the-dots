@@ -148,6 +148,6 @@ The solution has been designed to handle various PDF types:
 
 ---
 
-**Authors**:   
+**Authors**: Ceres2808  
 **Created**: 2025  
 **License**: MIT (for hackathon use)
